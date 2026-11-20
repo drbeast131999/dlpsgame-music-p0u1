@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://drbeast131999.github.io/dlpsgame-music-p0u1/sitemap.xml
